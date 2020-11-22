@@ -1,0 +1,304 @@
+html, body {}
+
+h1 {
+    font-family: "Special Elite", cursive;
+    text-align: center;
+    height: 125px;
+    width: 100%;
+    background-color: black;
+    color:white;
+    padding-top:50px;
+    font-size: 75px;
+    margin-top:0px;
+    }
+
+li {
+    font-family: "Special Elite", cursive;
+    font-size:22px;
+    display:inline;
+    text-align: center;
+    margin-top: 0px;
+    margin-left:60px;
+    margin-right:60px;
+    margin-bottom: 15px;
+    height: 75px;
+    width:100%;
+    }
+a:link {
+    color:black;
+    text-decoration: none;
+    }
+a:hover {
+    color:black;
+    text-decoration: underline;
+    }
+a:visited{
+    color:gray;
+    }
+
+img.large {
+    width: 500px;
+    height: 500px;
+    float:left;
+    }
+
+h2.footer {
+    font-family: "Special Elite", cursive;
+    font-size: 50px;
+    float:right;
+    color:grey;
+    margin-top:80px;
+    display: block;
+    opacity: 34%;
+    }
+    
+h3{
+    font-family:"Trispace", sans-serif;
+    font-size: 25px;
+    color: rgb(43, 40, 40);
+    margin-right:400px;
+    margin-left:520px;
+    margin-top:80px;
+    text-align:left;
+}
+
+h2.new {
+    font-family: "Special Elite", cursive;
+    font-size: 30px;
+    color:white;
+    background-color:black;
+    height:35px;
+    margin-top:15px;
+    display: block;
+    padding-top: 7px;
+    padding-left:5px;
+    margin-left:0px;
+    margin-right: 0px;
+    margin-bottom: 25px;
+    }
+
+img.early {
+    width:775px;
+    float:right;
+    margin-top:5px;
+    padding:5px;
+    display: block;
+    }
+
+.copy{ 
+    font-family: "Manrope", sans-serif;
+    height: 150px;
+    width:60%;
+    margin-right:200px;
+    margin-left:520px;
+    margin-top:15px;
+    font-size:18px;
+    margin-bottom:10px;
+    text-align:left;
+    text-align:justify;
+    color: rgb(43, 40, 40);
+    text-indent: 5px;
+    }
+
+.copyl{ 
+    font-family: "Manrope", sans-serif;
+    width:700px;
+    margin-top:15px;
+    margin-bottom:10px;
+    font-size:18px;
+    text-align:left;
+    text-align:justify;
+    color: rgb(43, 40, 40);
+    text-indent: 5px;
+    margin-left:15px;
+    }
+
+.adtxt {
+    font-family: "Manrope", sans-serif;
+    font-size:18px;
+    text-indent: 5px;
+    text-align: left;
+    width:60%;
+    text-align:justify;
+    margin-left:15px;
+    margin-top:0px;
+    margin-bottom:0px;
+    }
+
+.space{
+    margin: 300px;
+    display:block;
+    }
+
+
+h3.footer2 {
+    font-family:"Trispace", sans-serif;
+    font-size: 20px;
+    color: rgb(43, 40, 40);
+    text-align: left;
+    margin-left:15px;
+    margin-bottom:10px;
+    margin-top:20px;
+    }
+
+.famtxt {  font-family: "Manrope", sans-serif;
+    font-size:18px;
+    text-indent: 5px;
+    width:700px;
+    margin-right:150px;
+    margin-left:750px;
+    margin-top:15px;
+    font-size:18px;
+    text-align: left;
+    text-align:justify;
+    margin-bottom:10px;
+    }
+
+    img.dolphine{
+    width: 400px;
+    float: left;
+    height:275px;
+    border: 3px solid grey;
+    padding:0px;
+    display:inline;
+    margin-left:170px;
+    margin-top:15px;
+    }
+
+img.car {
+    width: 400px;
+    height: 275px;
+    border: 3px solid grey;
+    padding:0px;
+    display:inline;
+    margin-left: 30px;
+    margin-top:15px;
+     }
+
+img.HOF {
+    width: 400px;
+    height: 275px;
+    display:inline;
+    border: 3px solid gray;
+    padding:0px;
+    display:inline;
+    margin-left:30px;
+    margin-top:15px;
+    
+    }
+
+img.shark {
+    width: 300px;
+    height: 300px;
+    padding:0px;
+    margin-left:500px;
+    margin-right:100px;
+    }
+
+.video {
+    float:left;
+    margin-left:100px;
+    margin-top:50px;
+    }
+
+.sail {
+    font-family: "Manrope", sans-serif;
+    font-size:18px;
+    text-indent: 5px;
+    text-align: left;
+    width:60%;
+    text-align:justify;
+    margin-left:15px;
+    margin-top:10px;
+    margin-bottom:10px;    
+    }
+
+img.film {
+    width:700px;
+    height:500px;
+    float:right;
+    margin-top:-50px;
+}
+
+img.films {
+margin-top:25px;
+width:500px;
+height:750px;
+float:right;
+}
+
+img.sail38 {
+width: 300px;
+height:200px;
+float:right;
+margin-right:100px;
+margin-top:20px;
+    
+}
+
+img.sailboat{
+width: 300px;
+height:300px;
+float:right;
+margin-right:100px;
+    
+}
+
+img.family1 {
+width:600px;
+height: 450px;
+float:left;
+margin-left:100px;
+
+}
+
+img.sailboat2{
+    width: 300px;
+    height:350px;
+    float:right;
+    margin-right:100px;
+    margin-top:-40px;
+}
+
+mg.family1 {
+    width:600px;
+    height: 450px;
+    float:left;
+    margin-left:100px;
+    
+    }
+    
+    img.sailboat2{
+        width: 300px;
+        height:350px;
+        float:right;
+        margin-right:100px;
+        margin-top:-40px;
+    }
+    
+    img.family1 {
+        width:600px;
+        height: 450px;
+        float:left;
+        margin-left:100px;
+        margin-bottom:5px;
+        
+        }
+        
+        img.sailboat2{
+            width: 300px;
+            height:350px;
+            float:right;
+            margin-right:100px;
+            margin-top:-40px;
+        }
+        
+        .trinityv {
+            margin-left:150px;
+            margin-top:-350px;
+            display:block;
+        }
+
+            
+            
+                        
